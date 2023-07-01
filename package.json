@@ -1,0 +1,10 @@
+{
+  "name": "codility-exercises",
+  "version": "1.0.0",
+  "description": "Repository with Codility exercises",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {},
+  "author": "Kalidas, Arvindran",
+  "license": "ISC"
+}
